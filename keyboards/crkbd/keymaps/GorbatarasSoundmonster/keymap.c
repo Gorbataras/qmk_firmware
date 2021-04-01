@@ -48,6 +48,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 };
 
 
+
 int RGB_current_mode;
 
 // Setting ADJUST layer RGB back to default
